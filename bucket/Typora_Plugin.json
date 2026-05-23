@@ -1,0 +1,17 @@
+{
+  "name": "typora-plugin@v1.18.0.zip",
+  "category": "文本办公",
+  "version": "1.18.0",
+  "description": "Typora 增强插件",
+  "homepage": "https://github.com/obgnail/typora_plugin",
+  "url": "https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.18.0/typora-plugin%40v1.18.0.zip",
+  "checkver": [
+    {
+      "apiurl": "https://api.github.com/repos/obgnail/typora_plugin/releases/latest",
+      "url": "$.assets[?(@.name =~ /typora-plugin.*/)].browser_download_url",
+      "name": "$.assets[?(@.name =~ /typora-plugin.*/)].name",
+      "version": "$.tag_name"
+    }
+  ],
+  "oldurl": "https://github.com/obgnail/typora_plugin/releases/download/1.18.0/typora-plugin%40v1.18.0.zip"
+}

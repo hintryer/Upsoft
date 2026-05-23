@@ -1,0 +1,61 @@
+[
+    {
+        "filename": "ReNamerPro.json",
+        "content": {
+            "name": "ReNamerPro_7.9.0.0v2.exe",
+            "category": "单文件",
+            "version": "7.9.0.0v2",
+            "description": "文件改名",
+            "homepage": "https://www.52pojie.cn/thread-2064422-1-1.html",
+            "url": "https://kuguagantian.lanzoum.com/i4oW63ken4af",
+            "checkver": [
+                {
+                    "apiurl": "https://kuguagantian.lanzoum.com/b0dzxlrni"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://kuguagantian.lanzoum.com/i4oW63ken4af"
+            }
+        }
+    },
+    {
+        "filename": "Thunder.json",
+        "content": {
+            "name": "Thunder_12.4.9.3918.exe",
+            "category": "下载传输",
+            "version": "12.4.9.3918",
+            "description": "Thunder",
+            "homepage": "https://www.52pojie.cn/thread-2090717-1-1.html",
+            "url": "https://www.lanzouw.com/iWAtU3k3y9id",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.52pojie.cn/thread-2090717-1-1.html"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://www.lanzouw.com/iWAtU3k3y9id"
+            }
+        }
+    },
+    {
+        "filename": "РotРlayer.json",
+        "content": {
+            "name": "РotРlayer-260422(1.7.22859)-x64-Stable.exe",
+            "category": "影音工具",
+            "version": "1.7.22859",
+            "description": "高性能本地影音播放器",
+            "homepage": "https://www.423down.com/3050.html",
+            "url": "https://423down.lanzouo.com/iPRE43nu4qbi",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.423down.com/3050.html"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://423down.lanzouo.com/iPRE43nu4qbi"
+            }
+        }
+    }
+]

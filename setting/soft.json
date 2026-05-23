@@ -1,0 +1,210 @@
+[
+        {
+        "filename": "EmEditor.json",
+        "content": {
+            "name": "EmEditor_portable.zip",
+            "category": "文本办公",
+            "version": "24.1.0",
+            "description": "高性能文本编辑器",
+            "homepage": "https://www.emeditor.com/",
+            "url": "https://download.emeditor.info/emed64_24.1.0_portable.zip",
+            "notes": "学习码: DMAZM-WHY52-AX222-ZQJXN-79JXH",
+            "checkver": {
+                "apiurl": "https://www.emeditor.com/"
+            },
+            "autoupdate": {
+                "url": "https://download.emeditor.info/emed64_{version}_portable.zip"
+            }
+        }
+    },
+    {
+        "filename": "MusicTag.json",
+        "content": {
+            "name": "MusicTag.zip",
+            "category": "影音工具",
+            "version": "v1.0.9.0",
+            "description": "歌曲音乐标签编辑工具",
+            "homepage": "https://www.52pojie.cn/thread-1687719-1-1.html",
+            "url": "https://wwn.lanzouy.com/i2pWg0bnlirg",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.52pojie.cn/thread-1687719-1-1.html"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://wwn.lanzouy.com/i2pWg0bnlirg"
+            }
+        }
+    },
+    {
+        "filename": "ClickMonitorDDC.json",
+        "content": {
+            "name": "ClickMonitorDDC",
+            "category": "单文件",
+            "version": " 7.2",
+            "description": "显示器亮度音量调节软件",
+            "homepage": "https://www.52pojie.cn/thread-1761083-1-1.html",
+            "url": "https://wwi.lanzoup.com/iiahR0rcr4cd",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.52pojie.cn/thread-1761083-1-1.html"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://wwi.lanzoup.com/iiahR0rcr4cd"
+            }
+        }
+    },
+    {
+        "filename": "QQWubi.json",
+        "content": {
+            "name": "QQWubi_Setup.exe",
+            "category": "文本办公",
+            "version": "auto",
+            "description": "QQ五笔输入法",
+            "homepage": "https://qq.pinyin.cn/wubi/",
+            "url": "https://qq.pinyin.cn/download_pc.php?t=wb",
+            "checkver": [
+                {
+                    "apiurl": "https://qq.pinyin.cn/wubi/",
+                    "version": "<p>版本：(.*?)</p>"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://qq.pinyin.cn/download_pc.php?t=wb",
+                "name": "QQWubi_Setup_{version}.exe"
+            }
+        }
+    },
+    {
+        "filename": "GeekUninstaller.json",
+        "content": {
+            "name": "GeekUninstaller",
+            "category": "单文件",
+            "version": "auto",
+            "description": "Geek 卸载工具",
+            "homepage": "https://geekuninstaller.com/",
+            "url": "https://geekuninstaller.com/geek.zip",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://geekuninstaller.com/download",
+                    "version": "<b>(.*?)</b>"
+                }
+            ],
+            "autoupdate": {
+                "url": "https://geekuninstaller.com/geek.zip",
+                "name": "GeekUninstaller_{version}.exe"
+            }
+        }
+    },
+    {
+        "filename": "FSViewer.json",
+        "content": {
+            "name": "FSViewer",
+            "category": "图像相关",
+            "version": "auto",
+            "description": "FastStone 图片查看器",
+            "homepage": "https://www.faststone.org/",
+            "url": "https://www.faststonesoft.net/DN/FSViewerSetup83.exe",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.faststone.org/FSViewerDownload.htm",
+                    "version": "FastStone Image Viewer ([\\d.]+)",
+                    "url": "<a class=\"button-primary\" href=\"([^\"]+)\""
+                }
+            ],
+            "autoupdate": {
+                "name": "FSViewer_{version}.exe"
+            }
+        }
+    },
+    {
+        "filename": "FSCapture.json",
+        "content": {
+            "name": "FSCapture.zip",
+            "category": "图像相关",
+            "version": "auto",
+            "description": "屏幕录制、滚动截图工具",
+            "homepage": "https://www.faststone.org/FSCaptureDetail.htm",
+            "url": "https://www.faststonesoft.net/DN/FSCapture112.zip",
+            "notes": "学习码: BXRQE-RMMXB-QRFSZ-CVVOX",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.faststone.org/FSCaptureDownload.htm",
+                    "version": "<h2 class=\"product-name\">FastStone Capture ([\\d.]+)</h2>",
+                    "url": "href=\"([^\"]+)\">Portable</a>"
+                }
+            ],
+            "autoupdate": {
+                "name": "FSCapture_{version}.zip"
+            }
+        }
+    },
+    {
+        "filename": "Steamcommunity.json",
+        "content": {
+            "name": "Steamcommunity",
+            "category": "其它工具",
+            "version": "auto",
+            "description": "Steam 社区访问加速工具",
+            "homepage": "https://www.dogfight360.com/blog/18682/",
+            "url": "https://www.dogfight360.com/blog/wp-content/uploads/2026/02/steamcommunity_302_AMD64_V14.0.02.zip",
+            "hash": "auto",
+            "checkver": [
+                {
+                    "apiurl": "https://www.dogfight360.com/blog/18682/",
+                    "version": "<strong>下载: \\((V[\\d.]+)",
+                    "url": "<strong>常用<\\/strong><\\/mark>\\): <a href=\"([^\"]+)\""
+                }
+            ],
+            "autoupdate": {
+                "name": "Steamcommunity_302_AMD64_{version}.zip"
+            }
+        }
+    },
+    {
+        "filename": "360File.json",
+        "content": {
+            "name": "360文件夹",
+            "category": "其它工具",
+            "version": "auto",
+            "description": "360多标签文件管理器",
+            "homepage": "https://baoku.360.cn/soft/show/appid/2000003908",
+            "url": "https://sfdl.360safe.com/pcnewapp/360FileSetup.exe?channel=9510140",
+            "hash": "auto",
+            "checkver": {
+                "apiurl": "https://baoku.360.cn/soft/show/appid/2000003908",
+                "version": "版本([\\d.]+)"
+            },
+            "autoupdate": {
+                "url": "https://sfdl.360safe.com/pcnewapp/360FileSetup.exe?channel=9510140",
+                "name": "360FileSetup_{version}.exe"
+            }
+        }
+    },
+    {
+        "filename": "YunXingKu.json",
+        "content": {
+            "name": "微软常用运行库合集",
+            "category": "运行库",
+            "version": "auto",
+            "description": "微软常用运行库合集",
+            "homepage": "https://wwa.lanzout.com/b0b8rs19a#9527",
+            "url": "https://sfdl.360safe.com/pcnewapp/360FileSetup.exe?channel=9510140",
+            "hash": "auto",
+            "checkver": {
+                "apiurl": "https://www.423down.com/10835.html",
+                "version": "Build on ([\\d.]+)",
+                "url": "https://423down\\.lanzouo\\.com/[a-zA-Z0-9]+"
+            },
+            "autoupdate": {
+                "name": "微软常用运行库合集_{version}.exe"
+            }
+        }
+    }
+]
