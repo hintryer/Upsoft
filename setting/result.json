@@ -192,9 +192,9 @@
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0"
     },
     {
-        "name": "LastPass_4.153.0.crx",
+        "name": "LastPass_4.153.1.crx",
         "category": "浏览器相关",
-        "version": "4.153.0",
+        "version": "4.153.1",
         "description": "Free Password Manager",
         "homepage": "https://www.crxsoso.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dhdokiejnpimakedhajhdlcegeplioahd%26uc&prodversion=130.0.0.0"
@@ -256,9 +256,9 @@
         "url": "https://developer3.lanrar.com/file/?VDIBPww9UGEDCgE5BzIBbQA/Bj5RQwF2C39VOlFuBlMBYAU1WSRVd1E2BHwCZgcoA2AAK1M8VnoBfABvUX0EI1QyAT8MPVBhAwoBPgc3AT0AYgYyUTkBNAs8VWZRPgYxAScFNFl3VTxRMwRkAm8HNwNrADBTOlZyAXYAdlEwBDdUZAFkDGNQKwNlAW4HfAExAG4GLFE2AWULaFVmUT8GMgEwBTZZYFUwUWEEZwIzB2ADYABgUzpWNQFkADFROQRgVGcBNQw3UDcDZAEyBzYBYgBsBjVRIAF5C2VVI1ErBnIBcgU3WXZVaFFjBG8CZwc/A2wAN1M1VmIBMwAgUXkEbFQ5ATMMN1A5A2QBYAdkATkAbQY1UTsBMws7VWJRIwYpAScFNFloVXZROgRjAmEHMQNgADJTOlZlATEAM1E6BCNUIQEmDCZQOQNkAWEHZQEzAGsGMVE9ATYLNFViUSsGcgFoBSJZOVUzUTUEYwJ4BzcDYAAxUyJWZQE/ADJRIwQ9VGMBeAx3UGADOgEgBz0BXwA5BmhRMwEzCyJVdVF5Bn4BcQU3WVtVdFFmBG8CZg==&toolsdown"
     },
     {
-        "name": "微软常用运行库合集_2026.04.16.exe",
+        "name": "微软常用运行库合集_None.exe",
         "category": "运行库",
-        "version": "2026.04.16",
+        "version": null,
         "description": "微软常用运行库合集",
         "homepage": "https://wwa.lanzout.com/b0b8rs19a#9527",
         "url": "https://developer3.lanrar.com/file/?UDYHOVtqV2ZVXFFpATRcMFJtAzsHvVPvCqNTvVa3Aa8B5AfoCO1U5wHDBvhT71ziU5lUuQP9VthRs1ToAs0E4FDAB9hb71eYVYVRJwFnXG1SOgMwB3ZTYQo5U3tWOwE2AS8HNQgtVGUBcQY2U25cMVNsVA4DNVYwUWtUYAJmBDdQaQdmWz5XM1UzUTABc1w7UnsDOwdsU2YKPlNtVjIBOAExB2EIc1RwAScGbVM1XG1TO1RnA3NWZFFiVH0CbwQyUH8HMls+VzZVYFE3ATBcOVI+Az8HaFNhCj9TN1YyATIBMAdmCGBUYwEzBjZTN1xsUz1UNQNlVmNRZlRiAmwEMFBmB35bY1d7VWZRIQEgXC5SbQN0BzFTNQowU2xWPQE2ATEHZwhzVHQBPgY9U2JcO1M0VGADa1ZjUW9UZQJoBDBQYAdkWzJXLVUtUSEBM1wxUn8DOwdpU2YKOlNsVj0BNgEyB2UIY1QyAXEGJVN3XCpTNFRgA2tWY1FgVGECZwQwUGEHYFswVyVVdlFuASVcYFI6AzQHaVN/CjxTbFY+AS4BMAdpCGFULgFvBmdTKVx7U21UPgMrVjpRCVQxAjUEOFBgB35bIFd3VXpRdwEwXAJSfQNnB2VTYQ==&toolsdown"
@@ -280,12 +280,12 @@
         "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.16.2/Chrome%2B%2B_v1.16.2_x86_x64_arm64.7z"
     },
     {
-        "name": "Bili23-Downloade_v2.00.4_portable.zip",
+        "name": "Bili23-Downloade_v2.00.5_portable.zip",
         "category": "其它工具",
-        "version": "v2.00.4",
+        "version": "v2.00.5",
         "description": "B站视频下载工具",
         "homepage": "https://github.com/ScottSloan/Bili23-Downloader",
-        "url": "https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.00.4/Bili23-Downloader_2.00.4_windows_x64_portable.zip"
+        "url": "https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.00.5/Bili23-Downloader_2.00.5_windows_x64_portable.zip"
     },
     {
         "name": "GeekUninstaller_1.5.3.170.exe",
