@@ -96,12 +96,12 @@
         "url": "https://developer3.lanrar.com/file/?AWcGOA4/BTQJAAQ8BzJXOwE+Bz9W2Vb0AmpRI1HdUfBVOQUzWn5VZAgsVywGYAUyUzkCMwJvVGQBLlptVCYHMQEvBmMOYQVpCWoEawd6V3sBIwc0Vj1WeQJWUSNRbFEyVTkFN1opVWQIJldkBnQFYlNgAmsCOFQJAW9aOFQ1BzQBOQZiDmUFYwlmBGAHa1duAX0HZFZ6VmkCMVFjUTRRYFViBWNaMFU1CHhXcQYiBTlTOwI3Am9UYAEpWmxUPAcpATMGYw58BWEJPgRgBzdXYwFiBzNWO1YwAjRRZ1E/UWRVZwVqWjFVYAhsVzgGawUzU20CNQI+VG8BMVo4VG0HPgE0BjAOYgV/CToEKgc2V3ABLgdxVmxWJgJsUTNRMFFpVWIFZFo3VTYIeFd1BjsFaVNsAmECYFRnATFaa1QxBzEBNwZlDmsFaAlpBHwHfVdwAT0HblZ+VmkCNFFgUTpRaVViBWRaNFU2CG1XMQZ0BXFTeQJwAmBUZwExWmtUPgc+ATcGYA5gBWYJZwR0ByZXPwErBz9WO1ZmAjRReVE8UWlVYQV8WjZVOAhqVy8GagUzUycCIQI5VDkBcVoyVFcHZQFqBmwOYwV/CXkEJgcqVyYBPgddVnxWNQI4UWc=&toolsdown"
     },
     {
-        "name": "FFmpeg_Batch_AV_Converter_Portable_3.2.8_x64.zip",
+        "name": "FFmpeg_Batch_AV_Converter_Portable_3.2.9_x64.zip",
         "category": "影音工具",
-        "version": "3.2.8",
+        "version": "3.2.9",
         "description": "音视频批量转换工具",
         "homepage": "https://github.com/eibols/ffmpeg_batch",
-        "url": "https://gh-proxy.com/https://github.com/eibols/ffmpeg_batch/releases/download/3.2.8/FFmpeg_Batch_AV_Converter_Portable_3.2.8_x64.zip"
+        "url": "https://gh-proxy.com/https://github.com/eibols/ffmpeg_batch/releases/download/3.2.9/FFmpeg_Batch_AV_Converter_Portable_3.2.9_x64.zip"
     },
     {
         "name": "解除网页复制限制_2.1.6.crx",
@@ -208,20 +208,20 @@
         "url": "https://gh-proxy.com/https://github.com/lalakii/MouseClickTool/releases/download/3.1.0.0/MouseClickTool.exe"
     },
     {
-        "name": "Scribe2SRT-v0.3.5-windows-x86_64.zip",
+        "name": "Scribe2SRT-v0.3.6-windows-x86_64.zip",
         "category": "影音工具",
-        "version": "v0.3.5",
+        "version": "v0.3.6",
         "description": "音频转字幕工具",
         "homepage": "https://github.com/cylind/scribe2srt",
-        "url": "https://gh-proxy.com/https://github.com/cylind/scribe2srt/releases/download/v0.3.5/Scribe2SRT-v0.3.5-windows-x86_64.zip"
+        "url": "https://gh-proxy.com/https://github.com/cylind/scribe2srt/releases/download/v0.3.6/Scribe2SRT-v0.3.6-windows-x86_64.zip"
     },
     {
-        "name": "chrome_148.0.7778.179_uncompressed.exe",
+        "name": "chrome_148.0.7778.217_uncompressed.exe",
         "category": "浏览器相关",
-        "version": "148.0.7778.179",
+        "version": "148.0.7778.217",
         "description": "Chrome 离线安装包",
         "homepage": "https://github.com/Bush2021/chrome_installer",
-        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/148.0.7778.179/x64_148.0.7778.179_chrome_installer_uncompressed.exe"
+        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/148.0.7778.217/x64_148.0.7778.217_chrome_installer_uncompressed.exe"
     },
     {
         "name": "lanzouyun-3.5.3-x64-win.zip",
@@ -280,12 +280,12 @@
         "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.16.2/Chrome%2B%2B_v1.16.2_x86_x64_arm64.7z"
     },
     {
-        "name": "Bili23-Downloade_v2.00.5_portable.zip",
+        "name": "Bili23-Downloade_v2.00.6_portable.zip",
         "category": "其它工具",
-        "version": "v2.00.5",
+        "version": "v2.00.6",
         "description": "B站视频下载工具",
         "homepage": "https://github.com/ScottSloan/Bili23-Downloader",
-        "url": "https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.00.5/Bili23-Downloader_2.00.5_windows_x64_portable.zip"
+        "url": "https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.00.6/Bili23-Downloader_2.00.6_windows_x64_portable.zip"
     },
     {
         "name": "GeekUninstaller_1.5.3.170.exe",
