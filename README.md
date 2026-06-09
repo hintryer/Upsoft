@@ -68,7 +68,7 @@
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| Chrome++_v1.16.2_x86_x64_arm64.7z | 1.16.2 | Chrome增强工具集 | [主页](https://github.com/Bush2021/chrome_plus) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.16.2/Chrome%2B%2B_v1.16.2_x86_x64_arm64.7z) |
+| Chrome++_v1.17.0_x86_x64_arm64.7z | 1.17.0 | Chrome增强工具集 | [主页](https://github.com/Bush2021/chrome_plus) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.17.0/Chrome%2B%2B_v1.17.0_x86_x64_arm64.7z) |
 | 篡改猴测试版_5.5.6237.crx | 5.5.6237 | 脚本管理工具（红色版） | [主页](https://www.crxsoso.com/webstore/detail/gcalenpjmijncebpfijmoaglllgpjagf) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dgcalenpjmijncebpfijmoaglllgpjagf%26uc&prodversion=130.0.0.0) |
 | 解除网页复制限制_2.1.6.crx | 2.1.6 | 网页限制解除 | [主页](https://www.crxsoso.com/webstore/detail/jhodmcfehicjonjdoljadkbkenaoehfm) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djhodmcfehicjonjdoljadkbkenaoehfm%26uc&prodversion=130.0.0.0) |
 | LastPass_4.153.1.crx | 4.153.1 | Free Password Manager | [主页](https://www.crxsoso.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dhdokiejnpimakedhajhdlcegeplioahd%26uc&prodversion=130.0.0.0) |
@@ -77,7 +77,7 @@
 | 超级拖拽_2.1.2.crx | 2.1.2 | 超级拖拽 + 鼠标手势 | [主页](https://www.crxsoso.com/webstore/detail/jaikcnhlohebodlpkmjepipngegjbfpg) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djaikcnhlohebodlpkmjepipngegjbfpg%26uc&prodversion=130.0.0.0) |
 | 沉浸式翻译_1.30.1.crx | 1.30.1 | AI 网页翻译插件 | [主页](https://www.crxsoso.com/webstore/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0) |
 | uBlock+Origin+Lite_2026.607.1724.crx | 2026.607.1724 | 轻量版广告拦截 | [主页](https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0) |
-| chrome_149.0.7827.54_uncompressed.exe | 149.0.7827.54 | Chrome 离线安装包 | [主页](https://github.com/Bush2021/chrome_installer) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/149.0.7827.54/x64_149.0.7827.54_chrome_installer_uncompressed.exe) |
+| chrome_149.0.7827.103_uncompressed.exe | 149.0.7827.103 | Chrome 离线安装包 | [主页](https://github.com/Bush2021/chrome_installer) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/149.0.7827.103/x64_149.0.7827.103_chrome_installer_uncompressed.exe) |
 | 猫抓_2.6.9.crx | 2.6.9 | 媒体资源嗅探下载 | [主页](https://www.crxsoso.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djfedfbgedapdagkghmgibemcoggfppbb%26uc&prodversion=130.0.0.0) |
 
 ## 运行库
