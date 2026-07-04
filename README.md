@@ -12,7 +12,7 @@
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| Clash.Verge_2.5.1_x64-setup.exe | v2.5.1 | Clash图形化代理客户端 | [主页](https://github.com/clash-verge-rev/clash-verge-rev) |  |
+| Clash.Verge_2.5.1_x64-setup.exe | v2.5.1 | Clash图形化代理客户端 | [主页](https://github.com/clash-verge-rev/clash-verge-rev) | [下载](https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) |
 | 360FileSetup_None.exe | None | 360多标签文件管理器 | [主页](https://baoku.360.cn/soft/show/appid/2000003908) | [下载](https://sfdl.360safe.com/pcnewapp/360FileSetup.exe?channel=9510140) |
 | Bili23-Downloade_v2.10.4_portable.zip | v2.10.4 | B站视频下载工具 | [主页](https://github.com/ScottSloan/Bili23-Downloader) | [下载](https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.10.4/Bili23-Downloader_2.10.4_windows_x64_portable.zip) |
 | Steamcommunity_302_AMD64_V14.0.02.zip | V14.0.02 | Steam 社区访问加速工具 | [主页](https://www.dogfight360.com/blog/18682/) | [下载](https://www.dogfight360.com/blog/wp-content/uploads/2026/02/steamcommunity_302_AMD64_V14.0.02.zip) |
