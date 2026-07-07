@@ -120,9 +120,9 @@
         "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/7.0.20/dotnet-runtime-7.0.20-win-x64.exe"
     },
     {
-        "name": "uBlock+Origin+Lite_2026.628.2035.crx",
+        "name": "uBlock+Origin+Lite_2026.705.2152.crx",
         "category": "浏览器相关",
-        "version": "2026.628.2035",
+        "version": "2026.705.2152",
         "description": "轻量版广告拦截",
         "homepage": "https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0"
@@ -200,12 +200,12 @@
         "url": "https://developer3.lanrar.com/file/?UDZSbAs6BDUEDQQ8AjdXOwY5DzcEvQOZUutQsVauUOsG41SaAPUGtgnlAPgAsV3mW6cF6FK9U9IA71TYAtwG71DtUqoLsgTrBOQEfAIsVz8GLA8sBD0DaFI5UDNWVVA4BmJUPgBsBmIJZwBnAGddZFs1BTNSPlN3AGFUIQJjBjNQZVI9C2UEYARmBHQCJlcmBmEPOARrAzNSZlB5VjpQYgYpVDEAZQZ9CW0AYwA3XW1bNQU0UjhTaQAwVGsCOgY+UDNSMgtvBDMEYgQwAjNXYAZtDzgEPgM0UmFQblY4UDAGNFQ2ADgGNAlxACwAPV0sWycFdVJ+UzQAdVQ7AjoGOlBjUjwLZgRnBGIEZQJwVyIGNQ9nBD4DZ1JoUGdWPVBmBj9UNABrBmcJbwBvAGVdclsvBSZSa1M9AHBUbwJvBjBQZ1I8C2EEYQRjBGICYVdhBnoPfwQrA3ZSaFBnVjxQaQY2VDMAbAZhCW0AYABmXXpbdAVpUn1TbAA1VGACbwYpUGFSPAtiBH4EYwRrAmJXeAZkDz0EdQMnUjFQOVZ9UD8GWVRgADYGbwlvAHgAcl0oW3gFcFJoUw4AclQzAmMGNw==&toolsdown"
     },
     {
-        "name": "Chrome++_v1.17.0_x86_x64_arm64.7z",
+        "name": "Chrome++_v1.17.1_x86_x64_arm64.7z",
         "category": "浏览器相关",
-        "version": "1.17.0",
+        "version": "1.17.1",
         "description": "Chrome增强工具集",
         "homepage": "https://github.com/Bush2021/chrome_plus",
-        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.17.0/Chrome%2B%2B_v1.17.0_x86_x64_arm64.7z"
+        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.17.1/Chrome%2B%2B_v1.17.1_x86_x64_arm64.7z"
     },
     {
         "name": "app_asar_file_v1.9.5.zip",
@@ -360,9 +360,9 @@
         "url": "https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/8.1.2/ffmpeg-8.1.2-essentials_build.7z"
     },
     {
-        "name": "沉浸式翻译_1.30.3.crx",
+        "name": "沉浸式翻译_1.31.2.crx",
         "category": "浏览器相关",
-        "version": "1.30.3",
+        "version": "1.31.2",
         "description": "AI 网页翻译插件",
         "homepage": "https://www.crxsoso.com/webstore/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0"
