@@ -4,8 +4,8 @@
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| Thunder_12.4.9.3918.exe | 12.4.9.3918 | Thunder | [主页](https://www.52pojie.cn/thread-2090717-1-1.html) | [下载](https://developer3.lanrar.com/file/?CW8HOQ08BzYIAVdvVGEGalJtUmpW4VHsCogG6QfABLJSBlNsAChUbgAyUGMDJVx9A2hSZV4vU2UKI1FmBWlXeAk6B2kNZAdjCHBXZFR4BmJSLlIxVmBRPwpoBl8HMgRhUm9TNgBqVDcAZVAwA25cbQNpUmReJ1M3Cn5RagVoV2YJOAdhDWkHaghnVzhUMAYhUnhSJ1Y0UWEKPQYyB20EKlJiUzcAclQwAG5QKQNlXGkDYFIxXjJTNQo7UWIFb1dvCTAHMw1mB2MIOldjVGEGMlI9UmZWMVE2CmwGMQdtBGdSYlM1ADtUZQAzUGcDeVw4AyFSMl4nUyQKflEyBStXPwltB20NaQdiCGlXOFQ4Bj9SLlIjVmBRPgpoBmYHZgQ0UmVTMwBkVDcAYFAyA29cawNoUnleL1N3CmtROwUuV2sJOAdnDWcHaghpVzdUMwY1UjpSZ1YvUSYKfQZ3B2YENFJlUzMAb1Q5AGNQMwNjXG4Da1JxXnRTOAp9UWoFa1dkCTgHfg1hB2oIalcvVDEGPlI8UnlWMVFkCiMGJgc/BGpSJVNqAAJUYwA9UDsDZ1xzA39SI154UyEKaFEIBSxXNwk0B2A=&toolsdown) |
 | lanzouyun-3.5.3-x64-win.zip | v3.5.3 | 蓝奏云非官方客户端 | [主页](https://github.com/chenhb23/lanzouyun-disk) | [下载](https://gh-proxy.com/https://github.com/chenhb23/lanzouyun-disk/releases/download/v3.5.3/lanzouyun-3.5.3-x64-win.zip) |
+| Thunder_12.4.9.3918.exe | 12.4.9.3918 | Thunder | [主页](https://www.52pojie.cn/thread-2090717-1-1.html) | [下载](https://developer3.lanrar.com/file/?CW8HOQ08BzYIAVdvVGEGalJtUmpW4VHsCogG6QfABLJSBlNsAChUbgAyUGMDJVx9A2hSZV4vU2UKI1FmBWlXeAk6B2kNZAdjCHBXZFR4BmJSLlIxVmBRPwpoBl8HMgRhUm9TNgBqVDcAZVAwA25cbQNpUmReJ1M3Cn5RagVoV2YJOAdhDWkHaghnVzhUMAYhUnhSJ1Y0UWEKPQYyB20EKlJiUzcAclQwAG5QKQNlXGkDYFIxXjJTNQo7UWIFb1dvCTAHMw1mB2MIOldjVGEGMlI9UmZWMVE2CmwGMQdtBGdSYlM1ADtUZQAzUGcDeVw4AyFSMl4nUyQKflEyBStXPwltB20NaQdiCGlXOFQ4Bj9SLlIjVmBRPgpoBmYHZgQ0UmVTMwBkVDcAYFAyA29cawNoUnleL1N3CmtROwUuV2sJOAdnDWcHaghpVzdUMwY1UjpSZ1YvUSYKfQZ3B2YENFJlUzMAb1Q5AGNQMwNjXG4Da1JxXnRTOAp9UWoFa1dkCTgHfg1hB2oIalcvVDEGPlI8UnlWMVFkCiMGJgc/BGpSJVNqAAJUYwA9UDsDZ1xzA39SI154UyEKaFEIBSxXNwk0B2A=&toolsdown) |
 | LocalSend-1.17.0-windows-x86-64.zip | v1.17.0 | 局域网文件互传工具 | [主页](https://localsend.org/) | [下载](https://gh-proxy.com/https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.zip) |
 
 ## 其它工具
@@ -21,73 +21,73 @@
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| GeekUninstaller_1.5.3.170.exe | 1.5.3.170 | Geek 卸载工具 | [主页](https://geekuninstaller.com/) | [下载](https://geekuninstaller.com/geek.zip) |
-| ReNamerPro_7.9.0.0v2.exe | 7.9.0.0v2 | 文件改名 | [主页](https://www.52pojie.cn/thread-2064422-1-1.html) | [下载](https://developer3.lanrar.com/file/?UjRWaAg5BjcFDAA4V2JRPVRrBj5f5gGVB4dUtl26BrEA5laVXLgBsFOVU4gCewFSBjkBSgU7CmUGZAdzUFxRIlI9Vl4IYgZ8BWoAeFczUX5UPgZ1XzIBLQdlVCpdZAYhAGZWaFxtATBTWlNsAjIBPQZuATMFbQowBjcHNlA7UWdSZ1YnCDMGIQVuAGVXNlFnVDoGMl85ATIHJlQiXXEGOgAyVjFcMwFjUypTNQJlAS8GbQE2BXUKOwY2BzBQNVFkUjBWOQhnBmAFMQBiVzdRMlRsBmZfOAE7BzhUZ10zBjMAYlY0XDMBMFMzUzUCMAFkBm8BNwVqCiYGZAd5UGlRdlInVnIIMAYgBToAMlc+UWlUPgYyXzcBOwcyVHRddQZuAG1WZFxnAWhTNFMyAmEBOQZrATIFbgo8BjcHNlAiUX5SdFZnCDkGJQVuAGdXNFFnVDcGNF82ATAHNFRgXTcGIQB1VnFcdgFoUzRTMgJhATMGbgE8BW4KMQY3BzlQKlElUjtWcQhoBmAFYQBnVy1RYVQ3BjdfLgEyBzlUZl0vBj8AN1YvXCcBMVNqU3ICOAFfBj8BbwVnCjgGLwcnUHhRKVIiVmQICgYnBTIAa1cz&toolsdown) |
 | ClickMonitorDDC |  7.2 | 显示器亮度音量调节软件 | [主页](https://www.52pojie.cn/thread-1761083-1-1.html) | [下载](https://developer3.lanrar.com/file/?UDZSbAs6BDUEDQQ8AjdXOwY5DzcEvQOZUutQsVauUOsG41SaAPUGtgnlAPgAsV3mW6cF6FK9U9IA71TYAtwG71DtUqoLsgTrBOQEfAIsVz8GLA8sBD0DaFI5UDNWVVA4BmJUPgBsBmIJZwBnAGddZFs1BTNSPlN3AGFUIQJjBjNQZVI9C2UEYARmBHQCJlcmBmEPOARrAzNSZlB5VjpQYgYpVDEAZQZ9CW0AYwA3XW1bNQU0UjhTaQAwVGsCOgY+UDNSMgtvBDMEYgQwAjNXYAZtDzgEPgM0UmFQblY4UDAGNFQ2ADgGNAlxACwAPV0sWycFdVJ+UzQAdVQ7AjoGOlBjUjwLZgRnBGIEZQJwVyIGNQ9nBD4DZ1JoUGdWPVBmBj9UNABrBmcJbwBvAGVdclsvBSZSa1M9AHBUbwJvBjBQZ1I8C2EEYQRjBGICYVdhBnoPfwQrA3ZSaFBnVjxQaQY2VDMAbAZhCW0AYABmXXpbdAVpUn1TbAA1VGACbwYpUGFSPAtiBH4EYwRrAmJXeAZkDz0EdQMnUjFQOVZ9UD8GWVRgADYGbwlvAHgAcl0oW3gFcFJoUw4AclQzAmMGNw==&toolsdown) |
+| ReNamerPro_7.9.0.0v2.exe | 7.9.0.0v2 | 文件改名 | [主页](https://www.52pojie.cn/thread-2064422-1-1.html) | [下载](https://developer3.lanrar.com/file/?UjRWaAg5BjcFDAA4V2JRPVRrBj5f5gGVB4dUtl26BrEA5laVXLgBsFOVU4gCewFSBjkBSgU7CmUGZAdzUFxRIlI9Vl4IYgZ8BWoAeFczUX5UPgZ1XzIBLQdlVCpdZAYhAGZWaFxtATBTWlNsAjIBPQZuATMFbQowBjcHNlA7UWdSZ1YnCDMGIQVuAGVXNlFnVDoGMl85ATIHJlQiXXEGOgAyVjFcMwFjUypTNQJlAS8GbQE2BXUKOwY2BzBQNVFkUjBWOQhnBmAFMQBiVzdRMlRsBmZfOAE7BzhUZ10zBjMAYlY0XDMBMFMzUzUCMAFkBm8BNwVqCiYGZAd5UGlRdlInVnIIMAYgBToAMlc+UWlUPgYyXzcBOwcyVHRddQZuAG1WZFxnAWhTNFMyAmEBOQZrATIFbgo8BjcHNlAiUX5SdFZnCDkGJQVuAGdXNFFnVDcGNF82ATAHNFRgXTcGIQB1VnFcdgFoUzRTMgJhATMGbgE8BW4KMQY3BzlQKlElUjtWcQhoBmAFYQBnVy1RYVQ3BjdfLgEyBzlUZl0vBj8AN1YvXCcBMVNqU3ICOAFfBj8BbwVnCjgGLwcnUHhRKVIiVmQICgYnBTIAa1cz&toolsdown) |
 | MouseClickTool.exe | 3.1.0.0 | 鼠标自动点击工具 | [主页](https://github.com/lalakii/MouseClickTool) | [下载](https://gh-proxy.com/https://github.com/lalakii/MouseClickTool/releases/download/3.1.0.0/MouseClickTool.exe) |
+| GeekUninstaller_1.5.3.170.exe | 1.5.3.170 | Geek 卸载工具 | [主页](https://geekuninstaller.com/) | [下载](https://geekuninstaller.com/geek.zip) |
 
 ## 图像相关
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| FSViewer_8.5.exe | 8.5 | FastStone 图片查看器 | [主页](https://www.faststone.org/) | [下载](https://www.faststonesoft.net/DN/FSViewerSetup85.exe) |
 | FSCapture_11.2.zip | 11.2 | 屏幕录制、滚动截图工具 | [主页](https://www.faststone.org/FSCaptureDetail.htm) | [下载](https://www.faststonesoft.net/DN/FSCapture112.zip) |
 | Umi-OCR_Paddle_v2.1.5.7z.exe | v2.1.5 | 免费开源可批量离线OCR软件 | [主页](https://github.com/hiroi-sora/Umi-OCR) | [下载](https://gh-proxy.com/https://github.com/hiroi-sora/Umi-OCR/releases/download/v2.1.5/Umi-OCR_Paddle_v2.1.5.7z.exe) |
+| FSViewer_8.5.exe | 8.5 | FastStone 图片查看器 | [主页](https://www.faststone.org/) | [下载](https://www.faststonesoft.net/DN/FSViewerSetup85.exe) |
 
 ## 开发工具
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
 | PortableGit-2.55.0.3-64-bit.7z.exe | v2.55.0.windows.3 | 便携版Git版本控制工具 | [主页](https://gitforwindows.org/) | [下载](https://gh-proxy.com/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/PortableGit-2.55.0.3-64-bit.7z.exe) |
-| ffmpeg-8.1.2-full_build.7z | 8.1.2 | 完整版音视频处理工具 | [主页](https://ffmpeg.org/) | [下载](https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/8.1.2/ffmpeg-8.1.2-full_build.7z) |
 | ffmpeg-8.1.2-essentials_build.7z | 8.1.2 | 精简版音视频处理工具 | [主页](https://ffmpeg.org/) | [下载](https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/8.1.2/ffmpeg-8.1.2-essentials_build.7z) |
+| ffmpeg-8.1.2-full_build.7z | 8.1.2 | 完整版音视频处理工具 | [主页](https://ffmpeg.org/) | [下载](https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/8.1.2/ffmpeg-8.1.2-full_build.7z) |
 
 ## 影音工具
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| Scribe2SRT-v0.3.8-windows-x86_64.zip | v0.3.8 | 音频转字幕工具 | [主页](https://github.com/cylind/scribe2srt) | [下载](https://gh-proxy.com/https://github.com/cylind/scribe2srt/releases/download/v0.3.8/Scribe2SRT-v0.3.8-windows-x86_64.zip) |
-| MusicTag.zip | v1.0.9.0 | 歌曲音乐标签编辑工具 | [主页](https://www.52pojie.cn/thread-1687719-1-1.html) | [下载](https://developer3.lanrar.com/file/?VDIBPww9UGEDCgE5BzIBbQA/Bj5RQwF2C39VOlFuBlMBYAU1WSRVd1E2BHwCZgcoA2AAK1M8VnoBfABvUX0EI1QyAT8MPVBhAwoBPgc3AT0AYgYyUTkBNAs8VWZRPgYxAScFNFl3VTxRMwRkAm8HNwNrADBTOlZyAXYAdlEwBDdUZAFkDGNQKwNlAW4HfAExAG4GLFE2AWULaFVmUT8GMgEwBTZZYFUwUWEEZwIzB2ADYABgUzpWNQFkADFROQRgVGcBNQw3UDcDZAEyBzYBYgBsBjVRIAF5C2VVI1ErBnIBcgU3WXZVaFFjBG8CZwc/A2wAN1M1VmIBMwAgUXkEbFQ5ATMMN1A5A2QBYAdkATkAbQY1UTsBMws7VWJRIwYpAScFNFloVXZROgRjAmEHMQNgADJTOlZlATEAM1E6BCNUIQEmDCZQOQNkAWEHZQEzAGsGMVE9ATYLNFViUSsGcgFoBSJZOVUzUTUEYwJ4BzcDYAAxUyJWZQE/ADJRIwQ9VGMBeAx3UGADOgEgBz0BXwA5BmhRMwEzCyJVdVF5Bn4BcQU3WVtVdFFmBG8CZg==&toolsdown) |
-| MusicPlayer2_V2.78_x64.zip | V2.78 | 简洁本地音乐播放器 | [主页](https://github.com/zhongyang219/MusicPlayer2) | [下载](https://gh-proxy.com/https://github.com/zhongyang219/MusicPlayer2/releases/download/V2.78/MusicPlayer2_V2.78_x64.zip) |
-| FFmpeg_Batch_AV_Converter_Portable_3.2.9_x64.zip | 3.2.9 | 音视频批量转换工具 | [主页](https://github.com/eibols/ffmpeg_batch) | [下载](https://gh-proxy.com/https://github.com/eibols/ffmpeg_batch/releases/download/3.2.9/FFmpeg_Batch_AV_Converter_Portable_3.2.9_x64.zip) |
-| РotРlayer-260422(1.7.22859)-x64-Stable.exe | 1.7.22859 | 高性能本地影音播放器 | [主页](https://www.423down.com/3050.html) | [下载](https://developer3.lanrar.com/file/?AWcGOA4/BTQJAAQ8BzJXOwE+Bz9W2Vb0AmpRI1HdUfBVOQUzWn5VZAgsVywGYAUyUzkCMwJvVGQBLlptVCYHMQEvBmMOYQVpCWoEawd6V3sBIwc0Vj1WeQJWUSNRbFEyVTkFN1opVWQIJldkBnQFYlNgAmsCOFQJAW9aOFQ1BzQBOQZiDmUFYwlmBGAHa1duAX0HZFZ6VmkCMVFjUTRRYFViBWNaMFU1CHhXcQYiBTlTOwI3Am9UYAEpWmxUPAcpATMGYw58BWEJPgRgBzdXYwFiBzNWO1YwAjRRZ1E/UWRVZwVqWjFVYAhsVzgGawUzU20CNQI+VG8BMVo4VG0HPgE0BjAOYgV/CToEKgc2V3ABLgdxVmxWJgJsUTNRMFFpVWIFZFo3VTYIeFd1BjsFaVNsAmECYFRnATFaa1QxBzEBNwZlDmsFaAlpBHwHfVdwAT0HblZ+VmkCNFFgUTpRaVViBWRaNFU2CG1XMQZ0BXFTeQJwAmBUZwExWmtUPgc+ATcGYA5gBWYJZwR0ByZXPwErBz9WO1ZmAjRReVE8UWlVYQV8WjZVOAhqVy8GagUzUycCIQI5VDkBcVoyVFcHZQFqBmwOYwV/CXkEJgcqVyYBPgddVnxWNQI4UWc=&toolsdown) |
 | VideoCaptioner-Setup-win64-v1.3.3.exe | 1.3.3 | 视频字幕识别工具 | [主页](https://github.com/WEIFENG2333/VideoCaptioner) | [下载](https://gh-proxy.com/https://github.com/WEIFENG2333/VideoCaptioner/releases/download/v1.3.3/VideoCaptioner-Setup-win64-v1.3.3.exe) |
+| MusicPlayer2_V2.78_x64.zip | V2.78 | 简洁本地音乐播放器 | [主页](https://github.com/zhongyang219/MusicPlayer2) | [下载](https://gh-proxy.com/https://github.com/zhongyang219/MusicPlayer2/releases/download/V2.78/MusicPlayer2_V2.78_x64.zip) |
+| РotРlayer-260422(1.7.22859)-x64-Stable.exe | 1.7.22859 | 高性能本地影音播放器 | [主页](https://www.423down.com/3050.html) | [下载](https://developer3.lanrar.com/file/?AWcGOA4/BTQJAAQ8BzJXOwE+Bz9W2Vb0AmpRI1HdUfBVOQUzWn5VZAgsVywGYAUyUzkCMwJvVGQBLlptVCYHMQEvBmMOYQVpCWoEawd6V3sBIwc0Vj1WeQJWUSNRbFEyVTkFN1opVWQIJldkBnQFYlNgAmsCOFQJAW9aOFQ1BzQBOQZiDmUFYwlmBGAHa1duAX0HZFZ6VmkCMVFjUTRRYFViBWNaMFU1CHhXcQYiBTlTOwI3Am9UYAEpWmxUPAcpATMGYw58BWEJPgRgBzdXYwFiBzNWO1YwAjRRZ1E/UWRVZwVqWjFVYAhsVzgGawUzU20CNQI+VG8BMVo4VG0HPgE0BjAOYgV/CToEKgc2V3ABLgdxVmxWJgJsUTNRMFFpVWIFZFo3VTYIeFd1BjsFaVNsAmECYFRnATFaa1QxBzEBNwZlDmsFaAlpBHwHfVdwAT0HblZ+VmkCNFFgUTpRaVViBWRaNFU2CG1XMQZ0BXFTeQJwAmBUZwExWmtUPgc+ATcGYA5gBWYJZwR0ByZXPwErBz9WO1ZmAjRReVE8UWlVYQV8WjZVOAhqVy8GagUzUycCIQI5VDkBcVoyVFcHZQFqBmwOYwV/CXkEJgcqVyYBPgddVnxWNQI4UWc=&toolsdown) |
+| MusicTag.zip | v1.0.9.0 | 歌曲音乐标签编辑工具 | [主页](https://www.52pojie.cn/thread-1687719-1-1.html) | [下载](https://developer3.lanrar.com/file/?VDIBPww9UGEDCgE5BzIBbQA/Bj5RQwF2C39VOlFuBlMBYAU1WSRVd1E2BHwCZgcoA2AAK1M8VnoBfABvUX0EI1QyAT8MPVBhAwoBPgc3AT0AYgYyUTkBNAs8VWZRPgYxAScFNFl3VTxRMwRkAm8HNwNrADBTOlZyAXYAdlEwBDdUZAFkDGNQKwNlAW4HfAExAG4GLFE2AWULaFVmUT8GMgEwBTZZYFUwUWEEZwIzB2ADYABgUzpWNQFkADFROQRgVGcBNQw3UDcDZAEyBzYBYgBsBjVRIAF5C2VVI1ErBnIBcgU3WXZVaFFjBG8CZwc/A2wAN1M1VmIBMwAgUXkEbFQ5ATMMN1A5A2QBYAdkATkAbQY1UTsBMws7VWJRIwYpAScFNFloVXZROgRjAmEHMQNgADJTOlZlATEAM1E6BCNUIQEmDCZQOQNkAWEHZQEzAGsGMVE9ATYLNFViUSsGcgFoBSJZOVUzUTUEYwJ4BzcDYAAxUyJWZQE/ADJRIwQ9VGMBeAx3UGADOgEgBz0BXwA5BmhRMwEzCyJVdVF5Bn4BcQU3WVtVdFFmBG8CZg==&toolsdown) |
+| Scribe2SRT-v0.3.8-windows-x86_64.zip | v0.3.8 | 音频转字幕工具 | [主页](https://github.com/cylind/scribe2srt) | [下载](https://gh-proxy.com/https://github.com/cylind/scribe2srt/releases/download/v0.3.8/Scribe2SRT-v0.3.8-windows-x86_64.zip) |
+| FFmpeg_Batch_AV_Converter_Portable_3.2.9_x64.zip | 3.2.9 | 音视频批量转换工具 | [主页](https://github.com/eibols/ffmpeg_batch) | [下载](https://gh-proxy.com/https://github.com/eibols/ffmpeg_batch/releases/download/3.2.9/FFmpeg_Batch_AV_Converter_Portable_3.2.9_x64.zip) |
 
 ## 文本办公
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
+| typora-windows-x64-1.9.5.exe | v1.9.5 | Markdown 编辑器和阅读器 | [主页](https://typora.io/) | [下载](https://gh-proxy.com/https://github.com/Delppine1024/TGreen/releases/download/v1.9.5/typora-windows-x64-1.9.5.exe) |
 | Notepad4_HD_zh-Hans_x64_v26.06r6196.zip | v26.06r6196 | 轻量级文本编辑器 | [主页](https://github.com/zufuliu/notepad4) | [下载](https://gh-proxy.com/https://github.com/zufuliu/notepad4/releases/download/v26.06r6196/Notepad4_HD_zh-Hans_x64_v26.06r6196.zip) |
+| EmEditor_portable.zip | 24.1.0 | 高性能文本编辑器 | [主页](https://www.emeditor.com/) | [下载](https://download.emeditor.info/emed64_24.1.0_portable.zip) |
 | typora-plugin@v1.18.7.zip | 1.18.7 | Typora 增强插件 | [主页](https://github.com/obgnail/typora_plugin) | [下载](https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.18.7/typora-plugin%40v1.18.7.zip) |
 | app_asar_file_v1.9.5.zip | v1.9.5 | Typora 激活补丁工具 | [主页](https://github.com/Delppine1024/TGreen) | [下载](https://gh-proxy.com/https://github.com/Delppine1024/TGreen/releases/download/v1.9.5/app_asar_file_v1.9.5.zip) |
-| typora-windows-x64-1.9.5.exe | v1.9.5 | Markdown 编辑器和阅读器 | [主页](https://typora.io/) | [下载](https://gh-proxy.com/https://github.com/Delppine1024/TGreen/releases/download/v1.9.5/typora-windows-x64-1.9.5.exe) |
 | QQWubi_Setup_2.4.629.400.exe | 2.4.629.400 | QQ五笔输入法 | [主页](https://qq.pinyin.cn/wubi/) | [下载](https://qq.pinyin.cn/download_pc.php?t=wb) |
-| EmEditor_portable.zip | 24.1.0 | 高性能文本编辑器 | [主页](https://www.emeditor.com/) | [下载](https://download.emeditor.info/emed64_24.1.0_portable.zip) |
 
 ## 浏览器相关
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| SwitchyOmega_3.5.0.crx | 3.5.0 | 代理切换工具 | [主页](https://www.crxsoso.com/webstore/detail/pfnededegaaopdmhkdmcofjmoldfiped) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dpfnededegaaopdmhkdmcofjmoldfiped%26uc&prodversion=130.0.0.0) |
-| chrome_150.0.7871.125_uncompressed.exe | 150.0.7871.125 | Chrome 离线安装包 | [主页](https://github.com/Bush2021/chrome_installer) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/150.0.7871.125/x64_150.0.7871.125_chrome_installer_uncompressed.exe) |
 | 超级拖拽_2.1.2.crx | 2.1.2 | 超级拖拽 + 鼠标手势 | [主页](https://www.crxsoso.com/webstore/detail/jaikcnhlohebodlpkmjepipngegjbfpg) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djaikcnhlohebodlpkmjepipngegjbfpg%26uc&prodversion=130.0.0.0) |
-| uBlock+Origin+Lite_2026.713.1408.crx | 2026.713.1408 | 轻量版广告拦截 | [主页](https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0) |
-| LastPass_4.154.2.crx | 4.154.2 | Free Password Manager | [主页](https://www.crxsoso.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dhdokiejnpimakedhajhdlcegeplioahd%26uc&prodversion=130.0.0.0) |
-| 篡改猴测试版_5.6.6239.crx | 5.6.6239 | 脚本管理工具（红色版） | [主页](https://www.crxsoso.com/webstore/detail/gcalenpjmijncebpfijmoaglllgpjagf) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dgcalenpjmijncebpfijmoaglllgpjagf%26uc&prodversion=130.0.0.0) |
-| Chrome++_v1.18.0_x86_x64_arm64.7z | 1.18.0 | Chrome增强工具集 | [主页](https://github.com/Bush2021/chrome_plus) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.18.0/Chrome%2B%2B_v1.18.0_x86_x64_arm64.7z) |
-| 猫抓_2.7.1.crx | 2.7.1 | 媒体资源嗅探下载 | [主页](https://www.crxsoso.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djfedfbgedapdagkghmgibemcoggfppbb%26uc&prodversion=130.0.0.0) |
-| 解除网页复制限制_2.1.6.crx | 2.1.6 | 网页限制解除 | [主页](https://www.crxsoso.com/webstore/detail/jhodmcfehicjonjdoljadkbkenaoehfm) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djhodmcfehicjonjdoljadkbkenaoehfm%26uc&prodversion=130.0.0.0) |
 | SingleFile_1.22.98.crx | 1.22.98 | 网页单文件保存 | [主页](https://www.crxsoso.com/webstore/detail/mpiodijhokgodhhofbcjdecpffjipkle) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dmpiodijhokgodhhofbcjdecpffjipkle%26uc&prodversion=130.0.0.0) |
 | 沉浸式翻译_1.31.2.crx | 1.31.2 | AI 网页翻译插件 | [主页](https://www.crxsoso.com/webstore/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0) |
+| 解除网页复制限制_2.1.6.crx | 2.1.6 | 网页限制解除 | [主页](https://www.crxsoso.com/webstore/detail/jhodmcfehicjonjdoljadkbkenaoehfm) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djhodmcfehicjonjdoljadkbkenaoehfm%26uc&prodversion=130.0.0.0) |
+| 猫抓_2.7.1.crx | 2.7.1 | 媒体资源嗅探下载 | [主页](https://www.crxsoso.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djfedfbgedapdagkghmgibemcoggfppbb%26uc&prodversion=130.0.0.0) |
+| SwitchyOmega_3.5.0.crx | 3.5.0 | 代理切换工具 | [主页](https://www.crxsoso.com/webstore/detail/pfnededegaaopdmhkdmcofjmoldfiped) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dpfnededegaaopdmhkdmcofjmoldfiped%26uc&prodversion=130.0.0.0) |
+| Chrome++_v1.18.0_x86_x64_arm64.7z | 1.18.0 | Chrome增强工具集 | [主页](https://github.com/Bush2021/chrome_plus) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_plus/releases/download/1.18.0/Chrome%2B%2B_v1.18.0_x86_x64_arm64.7z) |
+| LastPass_4.154.2.crx | 4.154.2 | Free Password Manager | [主页](https://www.crxsoso.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dhdokiejnpimakedhajhdlcegeplioahd%26uc&prodversion=130.0.0.0) |
+| 篡改猴测试版_5.6.6239.crx | 5.6.6239 | 脚本管理工具（红色版） | [主页](https://www.crxsoso.com/webstore/detail/gcalenpjmijncebpfijmoaglllgpjagf) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dgcalenpjmijncebpfijmoaglllgpjagf%26uc&prodversion=130.0.0.0) |
+| chrome_150.0.7871.125_uncompressed.exe | 150.0.7871.125 | Chrome 离线安装包 | [主页](https://github.com/Bush2021/chrome_installer) | [下载](https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/150.0.7871.125/x64_150.0.7871.125_chrome_installer_uncompressed.exe) |
+| uBlock+Origin+Lite_2026.714.1952.crx | 2026.714.1952 | 轻量版广告拦截 | [主页](https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) | [下载](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0) |
 
 ## 运行库
 
 | 名称 | 版本 | 描述 | 主页 | 下载 |
 | ---- | ---- | ---- | ---- | ---- |
-| dotnet-runtime-7.0.20-win-x64.exe | 7.0.20 | .NET 7 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/7.0.20/dotnet-runtime-7.0.20-win-x64.exe) |
-| dotnet-runtime-10.0.10-win-x64.exe | 10.0.10 | .NET 10 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.10/dotnet-runtime-10.0.10-win-x64.exe) |
-| dotnet-runtime-6.0.36-win-x64.exe | 6.0.36 | .NET 6 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/6.0.36/dotnet-runtime-6.0.36-win-x64.exe) |
-| dotnet-runtime-9.0.18-win-x64.exe | 9.0.18 | .NET 9 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.18/dotnet-runtime-9.0.18-win-x64.exe) |
 | dotnet-runtime-8.0.29-win-x64.exe | 8.0.29 | .NET 8 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.29/dotnet-runtime-8.0.29-win-x64.exe) |
+| dotnet-runtime-10.0.10-win-x64.exe | 10.0.10 | .NET 10 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.10/dotnet-runtime-10.0.10-win-x64.exe) |
+| dotnet-runtime-9.0.18-win-x64.exe | 9.0.18 | .NET 9 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.18/dotnet-runtime-9.0.18-win-x64.exe) |
 | 微软常用运行库合集_2026.06.07.exe | 2026.06.07 | 微软常用运行库合集 | [主页](https://wwa.lanzout.com/b0b8rs19a#9527) | [下载](https://developer3.lanrar.com/file/?UDYHOVtqV2ZVXFFpATRcMFJtAzsHvVPvCqNTvVa3Aa8B5AfoCO1U5wHDBvhT71ziU5lUuQP9VthRs1ToAs0E4FDAB9hb71eYVYVRJwFnXG1SOgMwB3ZTYQo5U3tWOwE2AS8HNQgtVGUBcQY2U25cMVNsVA4DNVYwUWtUYAJmBDdQaQdmWz5XM1UzUTABc1w7UnsDOwdsU2YKPlNtVjIBOAExB2EIc1RwAScGbVM1XG1TO1RnA3NWZFFiVH0CbwQyUH8HMls+VzZVYFE3ATBcOVI+Az8HaFNhCj9TN1YyATIBMAdmCGBUYwEzBjZTN1xsUz1UNQNlVmNRZlRiAmwEMFBmB35bY1d7VWZRIQEgXC5SbQN0BzFTNQowU2xWPQE2ATEHZwhzVHQBPgY9U2JcO1M0VGADa1ZjUW9UZQJoBDBQYAdkWzJXLVUtUSEBM1wxUn8DOwdpU2YKOlNsVj0BNgEyB2UIY1QyAXEGJVN3XCpTNFRgA2tWY1FgVGECZwQwUGEHYFswVyVVdlFuASVcYFI6AzQHaVN/CjxTbFY+AS4BMAdpCGFULgFvBmdTKVx7U21UPgMrVjpRCVQxAjUEOFBgB35bIFd3VXpRdwEwXAJSfQNnB2VTYQ==&toolsdown) |
+| dotnet-runtime-7.0.20-win-x64.exe | 7.0.20 | .NET 7 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/7.0.20/dotnet-runtime-7.0.20-win-x64.exe) |
+| dotnet-runtime-6.0.36-win-x64.exe | 6.0.36 | .NET 6 Runtime | [主页](https://dotnet.microsoft.com/) | [下载](https://builds.dotnet.microsoft.com/dotnet/Runtime/6.0.36/dotnet-runtime-6.0.36-win-x64.exe) |
 
