@@ -72,12 +72,12 @@
         "url": "https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.19.2/typora-plugin%40v1.19.2.zip"
     },
     {
-        "name": "chrome_151.0.7922.138_uncompressed.exe",
+        "name": "chrome_151.0.7922.170_uncompressed.exe",
         "category": "浏览器相关",
-        "version": "151.0.7922.138",
+        "version": "151.0.7922.170",
         "description": "Chrome 离线安装包",
         "homepage": "https://github.com/Bush2021/chrome_installer",
-        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/151.0.7922.138/x64_151.0.7922.138_chrome_installer_uncompressed.exe"
+        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/151.0.7922.170/x64_151.0.7922.170_chrome_installer_uncompressed.exe"
     },
     {
         "name": "ffmpeg-9.0.1-full_build.7z",
@@ -152,9 +152,9 @@
         "url": "https://developer3.lanrar.com/file/?UjRWaAg5BjcFDAA4V2JRPVRrBj5f5gGVB4dUtl26BrEA5laVXLgBsFOVU4gCewFSBjkBSgU7CmUGZAdzUFxRIlI9Vl4IYgZ8BWoAeFczUX5UPgZ1XzIBLQdlVCpdZAYhAGZWaFxtATBTWlNsAjIBPQZuATMFbQowBjcHNlA7UWdSZ1YnCDMGIQVuAGVXNlFnVDoGMl85ATIHJlQiXXEGOgAyVjFcMwFjUypTNQJlAS8GbQE2BXUKOwY2BzBQNVFkUjBWOQhnBmAFMQBiVzdRMlRsBmZfOAE7BzhUZ10zBjMAYlY0XDMBMFMzUzUCMAFkBm8BNwVqCiYGZAd5UGlRdlInVnIIMAYgBToAMlc+UWlUPgYyXzcBOwcyVHRddQZuAG1WZFxnAWhTNFMyAmEBOQZrATIFbgo8BjcHNlAiUX5SdFZnCDkGJQVuAGdXNFFnVDcGNF82ATAHNFRgXTcGIQB1VnFcdgFoUzRTMgJhATMGbgE8BW4KMQY3BzlQKlElUjtWcQhoBmAFYQBnVy1RYVQ3BjdfLgEyBzlUZl0vBj8AN1YvXCcBMVNqU3ICOAFfBj8BbwVnCjgGLwcnUHhRKVIiVmQICgYnBTIAa1cz&toolsdown"
     },
     {
-        "name": "uBlock+Origin+Lite_2026.812.1211.crx",
+        "name": "uBlock+Origin+Lite_2026.818.1458.crx",
         "category": "浏览器相关",
-        "version": "2026.812.1211",
+        "version": "2026.818.1458",
         "description": "轻量版广告拦截",
         "homepage": "https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0"
