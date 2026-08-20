@@ -64,12 +64,12 @@
         "url": "https://gh-proxy.com/https://github.com/lalakii/MouseClickTool/releases/download/3.1.0.0/MouseClickTool.exe"
     },
     {
-        "name": "typora-plugin@v1.19.2.zip",
+        "name": "typora-plugin@v1.19.3.zip",
         "category": "文本办公",
-        "version": "1.19.2",
+        "version": "1.19.3",
         "description": "Typora 增强插件",
         "homepage": "https://github.com/obgnail/typora_plugin",
-        "url": "https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.19.2/typora-plugin%40v1.19.2.zip"
+        "url": "https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.19.3/typora-plugin%40v1.19.3.zip"
     },
     {
         "name": "chrome_151.0.7922.170_uncompressed.exe",
@@ -88,9 +88,9 @@
         "url": "https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/9.0.1/ffmpeg-9.0.1-full_build.7z"
     },
     {
-        "name": "GeekUninstaller_1.5.3.170.exe",
+        "name": "GeekUninstaller_1.5.4.180.exe",
         "category": "单文件",
-        "version": "1.5.3.170",
+        "version": "1.5.4.180",
         "description": "Geek 卸载工具",
         "homepage": "https://geekuninstaller.com/",
         "url": "https://geekuninstaller.com/geek.zip"
@@ -152,9 +152,9 @@
         "url": "https://developer3.lanrar.com/file/?UjRWaAg5BjcFDAA4V2JRPVRrBj5f5gGVB4dUtl26BrEA5laVXLgBsFOVU4gCewFSBjkBSgU7CmUGZAdzUFxRIlI9Vl4IYgZ8BWoAeFczUX5UPgZ1XzIBLQdlVCpdZAYhAGZWaFxtATBTWlNsAjIBPQZuATMFbQowBjcHNlA7UWdSZ1YnCDMGIQVuAGVXNlFnVDoGMl85ATIHJlQiXXEGOgAyVjFcMwFjUypTNQJlAS8GbQE2BXUKOwY2BzBQNVFkUjBWOQhnBmAFMQBiVzdRMlRsBmZfOAE7BzhUZ10zBjMAYlY0XDMBMFMzUzUCMAFkBm8BNwVqCiYGZAd5UGlRdlInVnIIMAYgBToAMlc+UWlUPgYyXzcBOwcyVHRddQZuAG1WZFxnAWhTNFMyAmEBOQZrATIFbgo8BjcHNlAiUX5SdFZnCDkGJQVuAGdXNFFnVDcGNF82ATAHNFRgXTcGIQB1VnFcdgFoUzRTMgJhATMGbgE8BW4KMQY3BzlQKlElUjtWcQhoBmAFYQBnVy1RYVQ3BjdfLgEyBzlUZl0vBj8AN1YvXCcBMVNqU3ICOAFfBj8BbwVnCjgGLwcnUHhRKVIiVmQICgYnBTIAa1cz&toolsdown"
     },
     {
-        "name": "uBlock+Origin+Lite_2026.818.1458.crx",
+        "name": "uBlock+Origin+Lite_2026.819.1210.crx",
         "category": "浏览器相关",
-        "version": "2026.818.1458",
+        "version": "2026.819.1210",
         "description": "轻量版广告拦截",
         "homepage": "https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0"
@@ -216,12 +216,12 @@
         "url": "https://gh-proxy.com/https://github.com/WEIFENG2333/VideoCaptioner/releases/download/v1.3.3/VideoCaptioner-Setup-win64-v1.3.3.exe"
     },
     {
-        "name": "Bili23-Downloade_v2.14.0_portable.zip",
+        "name": "Bili23-Downloade_v2.15.0_portable.zip",
         "category": "其它工具",
-        "version": "v2.14.0",
+        "version": "v2.15.0",
         "description": "B站视频下载工具",
         "homepage": "https://github.com/ScottSloan/Bili23-Downloader",
-        "url": "https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.14.0/Bili23-Downloader_2.14.0_windows_x64_portable.zip"
+        "url": "https://gh-proxy.com/https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.15.0/Bili23-Downloader_2.15.0_windows_x64_portable.zip"
     },
     {
         "name": "dotnet-runtime-9.0.19-win-x64.exe",
