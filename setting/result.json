@@ -72,12 +72,12 @@
         "url": "https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.19.3/typora-plugin%40v1.19.3.zip"
     },
     {
-        "name": "chrome_151.0.7922.170_uncompressed.exe",
+        "name": "chrome_151.0.7922.174_uncompressed.exe",
         "category": "浏览器相关",
-        "version": "151.0.7922.170",
+        "version": "151.0.7922.174",
         "description": "Chrome 离线安装包",
         "homepage": "https://github.com/Bush2021/chrome_installer",
-        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/151.0.7922.170/x64_151.0.7922.170_chrome_installer_uncompressed.exe"
+        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/151.0.7922.174/x64_151.0.7922.174_chrome_installer_uncompressed.exe"
     },
     {
         "name": "ffmpeg-9.0.1-full_build.7z",
@@ -128,12 +128,12 @@
         "url": "https://developer3.lanrar.com/file/?CW8HOQ08BzYIAVdvVGEGalJtUmpW4VHsCogG6QfABLJSBlNsAChUbgAyUGMDJVx9A2hSZV4vU2UKI1FmBWlXeAk6B2kNZAdjCHBXZFR4BmJSLlIxVmBRPwpoBl8HMgRhUm9TNgBqVDcAZVAwA25cbQNpUmReJ1M3Cn5RagVoV2YJOAdhDWkHaghnVzhUMAYhUnhSJ1Y0UWEKPQYyB20EKlJiUzcAclQwAG5QKQNlXGkDYFIxXjJTNQo7UWIFb1dvCTAHMw1mB2MIOldjVGEGMlI9UmZWMVE2CmwGMQdtBGdSYlM1ADtUZQAzUGcDeVw4AyFSMl4nUyQKflEyBStXPwltB20NaQdiCGlXOFQ4Bj9SLlIjVmBRPgpoBmYHZgQ0UmVTMwBkVDcAYFAyA29cawNoUnleL1N3CmtROwUuV2sJOAdnDWcHaghpVzdUMwY1UjpSZ1YvUSYKfQZ3B2YENFJlUzMAb1Q5AGNQMwNjXG4Da1JxXnRTOAp9UWoFa1dkCTgHfg1hB2oIalcvVDEGPlI8UnlWMVFkCiMGJgc/BGpSJVNqAAJUYwA9UDsDZ1xzA39SI154UyEKaFEIBSxXNwk0B2A=&toolsdown"
     },
     {
-        "name": "PortableGit-2.55.0.4-64-bit.7z.exe",
+        "name": "PortableGit-2.55.0.5-64-bit.7z.exe",
         "category": "开发工具",
-        "version": "v2.55.0.windows.4",
+        "version": "v2.55.0.windows.5",
         "description": "便携版Git版本控制工具",
         "homepage": "https://gitforwindows.org/",
-        "url": "https://gh-proxy.com/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/PortableGit-2.55.0.4-64-bit.7z.exe"
+        "url": "https://gh-proxy.com/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/PortableGit-2.55.0.5-64-bit.7z.exe"
     },
     {
         "name": "QQWubi_Setup_2.4.629.400.exe",
@@ -152,9 +152,9 @@
         "url": "https://developer3.lanrar.com/file/?UjRWaAg5BjcFDAA4V2JRPVRrBj5f5gGVB4dUtl26BrEA5laVXLgBsFOVU4gCewFSBjkBSgU7CmUGZAdzUFxRIlI9Vl4IYgZ8BWoAeFczUX5UPgZ1XzIBLQdlVCpdZAYhAGZWaFxtATBTWlNsAjIBPQZuATMFbQowBjcHNlA7UWdSZ1YnCDMGIQVuAGVXNlFnVDoGMl85ATIHJlQiXXEGOgAyVjFcMwFjUypTNQJlAS8GbQE2BXUKOwY2BzBQNVFkUjBWOQhnBmAFMQBiVzdRMlRsBmZfOAE7BzhUZ10zBjMAYlY0XDMBMFMzUzUCMAFkBm8BNwVqCiYGZAd5UGlRdlInVnIIMAYgBToAMlc+UWlUPgYyXzcBOwcyVHRddQZuAG1WZFxnAWhTNFMyAmEBOQZrATIFbgo8BjcHNlAiUX5SdFZnCDkGJQVuAGdXNFFnVDcGNF82ATAHNFRgXTcGIQB1VnFcdgFoUzRTMgJhATMGbgE8BW4KMQY3BzlQKlElUjtWcQhoBmAFYQBnVy1RYVQ3BjdfLgEyBzlUZl0vBj8AN1YvXCcBMVNqU3ICOAFfBj8BbwVnCjgGLwcnUHhRKVIiVmQICgYnBTIAa1cz&toolsdown"
     },
     {
-        "name": "uBlock+Origin+Lite_2026.819.1210.crx",
+        "name": "uBlock+Origin+Lite_2026.820.1159.crx",
         "category": "浏览器相关",
-        "version": "2026.819.1210",
+        "version": "2026.820.1159",
         "description": "轻量版广告拦截",
         "homepage": "https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0"
@@ -272,9 +272,9 @@
         "url": "https://www.faststonesoft.net/DN/FSCapture113.zip"
     },
     {
-        "name": "沉浸式翻译_1.32.5.crx",
+        "name": "沉浸式翻译_1.32.6.crx",
         "category": "浏览器相关",
-        "version": "1.32.5",
+        "version": "1.32.6",
         "description": "AI 网页翻译插件",
         "homepage": "https://www.crxsoso.com/webstore/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0"
