@@ -176,12 +176,12 @@
         "url": "https://www.faststonesoft.net/DN/FSViewerSetup85.exe"
     },
     {
-        "name": "",
+        "name": "LocalSend-1.18.2-windows-x86-64.zip",
         "category": "下载传输",
-        "version": "v1.18.1",
+        "version": "v1.18.2",
         "description": "局域网文件互传工具",
         "homepage": "https://localsend.org/",
-        "url": ""
+        "url": "https://gh-proxy.com/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip"
     },
     {
         "name": "РotРlayer-260422(1.7.22859)-x64-Stable.exe",
@@ -272,9 +272,9 @@
         "url": "https://www.faststonesoft.net/DN/FSCapture113.zip"
     },
     {
-        "name": "沉浸式翻译_1.32.6.crx",
+        "name": "沉浸式翻译_1.32.7.crx",
         "category": "浏览器相关",
-        "version": "1.32.6",
+        "version": "1.32.7",
         "description": "AI 网页翻译插件",
         "homepage": "https://www.crxsoso.com/webstore/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0"
