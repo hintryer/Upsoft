@@ -58,10 +58,10 @@
     {
         "name": "MouseClickTool.exe",
         "category": "单文件",
-        "version": "3.1.0.0",
+        "version": "3.2.0.0",
         "description": "鼠标自动点击工具",
         "homepage": "https://github.com/lalakii/MouseClickTool",
-        "url": "https://gh-proxy.com/https://github.com/lalakii/MouseClickTool/releases/download/3.1.0.0/MouseClickTool.exe"
+        "url": "https://gh-proxy.com/https://github.com/lalakii/MouseClickTool/releases/download/3.2.0.0/MouseClickTool.exe"
     },
     {
         "name": "typora-plugin@v1.19.4.zip",
@@ -72,12 +72,12 @@
         "url": "https://gh-proxy.com/https://github.com/obgnail/typora_plugin/releases/download/1.19.4/typora-plugin%40v1.19.4.zip"
     },
     {
-        "name": "chrome_152.0.7977.65_uncompressed.exe",
+        "name": "chrome_152.0.7977.76_uncompressed.exe",
         "category": "浏览器相关",
-        "version": "152.0.7977.65",
+        "version": "152.0.7977.76",
         "description": "Chrome 离线安装包",
         "homepage": "https://github.com/Bush2021/chrome_installer",
-        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/152.0.7977.65/x64_152.0.7977.65_chrome_installer_uncompressed.exe"
+        "url": "https://gh-proxy.com/https://github.com/Bush2021/chrome_installer/releases/download/152.0.7977.76/x64_152.0.7977.76_chrome_installer_uncompressed.exe"
     },
     {
         "name": "ffmpeg-9.0.1-full_build.7z",
@@ -152,9 +152,9 @@
         "url": "https://developer3.lanrar.com/file/?UjRWaAg5BjcFDAA4V2JRPVRrBj5f5gGVB4dUtl26BrEA5laVXLgBsFOVU4gCewFSBjkBSgU7CmUGZAdzUFxRIlI9Vl4IYgZ8BWoAeFczUX5UPgZ1XzIBLQdlVCpdZAYhAGZWaFxtATBTWlNsAjIBPQZuATMFbQowBjcHNlA7UWdSZ1YnCDMGIQVuAGVXNlFnVDoGMl85ATIHJlQiXXEGOgAyVjFcMwFjUypTNQJlAS8GbQE2BXUKOwY2BzBQNVFkUjBWOQhnBmAFMQBiVzdRMlRsBmZfOAE7BzhUZ10zBjMAYlY0XDMBMFMzUzUCMAFkBm8BNwVqCiYGZAd5UGlRdlInVnIIMAYgBToAMlc+UWlUPgYyXzcBOwcyVHRddQZuAG1WZFxnAWhTNFMyAmEBOQZrATIFbgo8BjcHNlAiUX5SdFZnCDkGJQVuAGdXNFFnVDcGNF82ATAHNFRgXTcGIQB1VnFcdgFoUzRTMgJhATMGbgE8BW4KMQY3BzlQKlElUjtWcQhoBmAFYQBnVy1RYVQ3BjdfLgEyBzlUZl0vBj8AN1YvXCcBMVNqU3ICOAFfBj8BbwVnCjgGLwcnUHhRKVIiVmQICgYnBTIAa1cz&toolsdown"
     },
     {
-        "name": "uBlock+Origin+Lite_2026.825.1619.crx",
+        "name": "uBlock+Origin+Lite_2026.901.1442.crx",
         "category": "浏览器相关",
-        "version": "2026.825.1619",
+        "version": "2026.901.1442",
         "description": "轻量版广告拦截",
         "homepage": "https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0"
@@ -304,9 +304,9 @@
         "url": "https://developer3.lanrar.com/file/?UDZSbAs6BDUEDQQ8AjdXOwY5DzcEvQOZUutQsVauUOsG41SaAPUGtgnlAPgAsV3mW6cF6FK9U9IA71TYAtwG71DtUqoLsgTrBOQEfAIsVz8GLA8sBD0DaFI5UDNWVVA4BmJUPgBsBmIJZwBnAGddZFs1BTNSPlN3AGFUIQJjBjNQZVI9C2UEYARmBHQCJlcmBmEPOARrAzNSZlB5VjpQYgYpVDEAZQZ9CW0AYwA3XW1bNQU0UjhTaQAwVGsCOgY+UDNSMgtvBDMEYgQwAjNXYAZtDzgEPgM0UmFQblY4UDAGNFQ2ADgGNAlxACwAPV0sWycFdVJ+UzQAdVQ7AjoGOlBjUjwLZgRnBGIEZQJwVyIGNQ9nBD4DZ1JoUGdWPVBmBj9UNABrBmcJbwBvAGVdclsvBSZSa1M9AHBUbwJvBjBQZ1I8C2EEYQRjBGICYVdhBnoPfwQrA3ZSaFBnVjxQaQY2VDMAbAZhCW0AYABmXXpbdAVpUn1TbAA1VGACbwYpUGFSPAtiBH4EYwRrAmJXeAZkDz0EdQMnUjFQOVZ9UD8GWVRgADYGbwlvAHgAcl0oW3gFcFJoUw4AclQzAmMGNw==&toolsdown"
     },
     {
-        "name": "SingleFile_1.23.1.crx",
+        "name": "SingleFile_1.23.3.crx",
         "category": "浏览器相关",
-        "version": "1.23.1",
+        "version": "1.23.3",
         "description": "网页单文件保存",
         "homepage": "https://www.crxsoso.com/webstore/detail/mpiodijhokgodhhofbcjdecpffjipkle",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dmpiodijhokgodhhofbcjdecpffjipkle%26uc&prodversion=130.0.0.0"
