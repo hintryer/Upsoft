@@ -96,9 +96,9 @@
         "url": "https://gh-proxy.com/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/PortableGit-2.55.0.5-64-bit.7z.exe"
     },
     {
-        "name": "SingleFile_1.24.0.crx",
+        "name": "SingleFile_1.24.1.crx",
         "category": "浏览器相关",
-        "version": "1.24.0",
+        "version": "1.24.1",
         "description": "网页单文件保存",
         "homepage": "https://www.crxsoso.com/webstore/detail/mpiodijhokgodhhofbcjdecpffjipkle",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dmpiodijhokgodhhofbcjdecpffjipkle%26uc&prodversion=130.0.0.0"
@@ -120,9 +120,9 @@
         "url": "https://gh-proxy.com/https://github.com/zufuliu/notepad4/releases/download/v26.08r6282/Notepad4_HD_zh-Hans_x64_v26.08r6282.zip"
     },
     {
-        "name": "沉浸式翻译_1.32.10.crx",
+        "name": "沉浸式翻译_1.33.1.crx",
         "category": "浏览器相关",
-        "version": "1.32.10",
+        "version": "1.33.1",
         "description": "AI 网页翻译插件",
         "homepage": "https://www.crxsoso.com/webstore/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dbpoadfkcbjbfhfodiogcnhhhpibjhbnh%26uc&prodversion=130.0.0.0"
@@ -184,9 +184,9 @@
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Djaikcnhlohebodlpkmjepipngegjbfpg%26uc&prodversion=130.0.0.0"
     },
     {
-        "name": "uBlock+Origin+Lite_2026.901.1442.crx",
+        "name": "uBlock+Origin+Lite_2026.907.2003.crx",
         "category": "浏览器相关",
-        "version": "2026.901.1442",
+        "version": "2026.907.2003",
         "description": "轻量版广告拦截",
         "homepage": "https://www.crxsoso.com/webstore/detail/ddkjiahejlhfcafbddmgiahcphecmpfh",
         "url": "https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx&x=id%3Dddkjiahejlhfcafbddmgiahcphecmpfh%26uc&prodversion=130.0.0.0"
